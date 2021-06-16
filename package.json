@@ -1,0 +1,24 @@
+{
+  "name": "11ty-blog-site",
+  "version": "1.0.0",
+  "description": "These are the starting files used by [Kevin Powell](https://kevinpowell.co) to create a personal blog site for the [Codementor](https://www.codementor.io/) DevProjects Challenge, [Create a fast and secure blog using JAMStack](#). You are free to use them however you want to get started with the challenge, if you'd like to start working on creating the site without worrying about the content itself.",
+  "main": "index.js",
+  "scripts": {
+    "start": "eleventy --serve",
+    "build": "eleventy"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kevin-powell/11ty-blog-site.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kevin-powell/11ty-blog-site/issues"
+  },
+  "homepage": "https://github.com/kevin-powell/11ty-blog-site#readme",
+  "devDependencies": {
+    "@11ty/eleventy": "^0.12.1"
+  }
+}
