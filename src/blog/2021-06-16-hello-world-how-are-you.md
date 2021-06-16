@@ -1,11 +1,14 @@
 ---
 title: Hello world how are you
-description: This is a short description right here
+description: Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do
+  eiusmod tempor incididunt ut labore et dolore magna aliqua. Id leo in vitae
+  turpis **massa**. Amet tellus cras adipiscing enim eu turpis egestas pretium
+  aenean. Ornare aenean euismod elementum nisi quis eleifend. Amet tellus cras
+  adipiscing enim eu turpis. Nisi vitae suscipit tellus mauris.
 author: Kevin
 date: 2021-06-16T17:40:07.390Z
 tags:
   - post
-  - featured
 image: /assets/blog/carbon-2021-06-11t092807.024.png
 imageAlt: looking at inset
 ---
